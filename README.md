@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hi, I'm Anthony 👋🙂
+
+### Welcome to my page!
+- I'm currently studying **Data Science** at **UTEC** 
+- From **Lima,Peru**
+- ➡️ Contact me : anthony.roca@utec.edu.pe
+- ⚡ *Fun fact: I like to solve sudokus*
+
+---
+
+### Languages I like:
+- R
+- Python
+- C++
+
+---
+
+### You can find me 🐧:
+- [Facebook](https://www.facebook.com/anthonyrc1411) 
+- [Youtube](https://www.youtube.com/channel/UC5XuNBmLGV-r1UCAZ6pDJEQ/featured)
 
 <!--
 **Tony1411/Tony1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
