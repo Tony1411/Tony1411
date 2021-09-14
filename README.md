@@ -16,8 +16,12 @@
 ---
 
 ### You can find me 🐧:
-- [Facebook](https://www.facebook.com/anthonyrc1411) 
-- [Youtube](https://www.youtube.com/channel/UC5XuNBmLGV-r1UCAZ6pDJEQ/featured)
+<p align="left">
+<a href="https://www.facebook.com/anthonyrc1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthonyrc1411" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5XuNBmLGV-r1UCAZ6pDJEQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthonyrc1411" height="30" width="40" /></a>
+</p>
+
+---
 
 ![Logo Data Science calidad media](https://user-images.githubusercontent.com/78512236/133189313-45df9b85-af53-47b4-a84a-85caf3cdd9d5.jpeg)
 
