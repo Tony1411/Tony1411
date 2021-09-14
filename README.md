@@ -19,7 +19,7 @@
 - [Facebook](https://www.facebook.com/anthonyrc1411) 
 - [Youtube](https://www.youtube.com/channel/UC5XuNBmLGV-r1UCAZ6pDJEQ/featured)
 
-![logo_calidad_baja](https://user-images.githubusercontent.com/78512236/133188820-6c912c00-4a42-468b-b579-2f1753424203.jpeg)
+![Logo Data Science calidad media](https://user-images.githubusercontent.com/78512236/133189313-45df9b85-af53-47b4-a84a-85caf3cdd9d5.jpeg)
 
 
 
