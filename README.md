@@ -23,9 +23,7 @@
 
 ---
 
-![Logo Data Science calidad media](https://user-images.githubusercontent.com/78512236/133189313-45df9b85-af53-47b4-a84a-85caf3cdd9d5.jpeg)
-
-
+![Logo Data Science](https://user-images.githubusercontent.com/78512236/140595505-d2044ba8-6df2-4693-8349-ba84a40fb887.jpg)
 
 <!--
 **Tony1411/Tony1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
